@@ -43,12 +43,6 @@ class Board
 
   end
 
-=======
-    puts "---------"
-    puts " #{cells[3]} | #{cells[4]} | #{cells[5]} "
-    puts "---------"
-    puts " #{cells[6]} | #{cells[7]} | #{cells[8]} "
-  end
 
->>>>>>> 7d73671366174059ce31a5b8cc878c3606e2f9d7
+
 end
